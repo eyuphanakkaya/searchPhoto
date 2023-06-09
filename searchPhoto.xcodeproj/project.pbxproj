@@ -13,6 +13,7 @@
 		A43870E62A33222700B66FA8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A43870E42A33222700B66FA8 /* Main.storyboard */; };
 		A43870E82A33222800B66FA8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A43870E72A33222800B66FA8 /* Assets.xcassets */; };
 		A43870EB2A33222800B66FA8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A43870E92A33222800B66FA8 /* LaunchScreen.storyboard */; };
+		A43870F52A3329A300B66FA8 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A43870F42A3329A300B66FA8 /* CollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A43870E72A33222800B66FA8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A43870EA2A33222800B66FA8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A43870EC2A33222800B66FA8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A43870F42A3329A300B66FA8 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				A43870DE2A33222700B66FA8 /* AppDelegate.swift */,
 				A43870E02A33222700B66FA8 /* SceneDelegate.swift */,
 				A43870E22A33222700B66FA8 /* ViewController.swift */,
+				A43870F42A3329A300B66FA8 /* CollectionViewCell.swift */,
 				A43870E42A33222700B66FA8 /* Main.storyboard */,
 				A43870E72A33222800B66FA8 /* Assets.xcassets */,
 				A43870E92A33222800B66FA8 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A43870F52A3329A300B66FA8 /* CollectionViewCell.swift in Sources */,
 				A43870E32A33222700B66FA8 /* ViewController.swift in Sources */,
 				A43870DF2A33222700B66FA8 /* AppDelegate.swift in Sources */,
 				A43870E12A33222700B66FA8 /* SceneDelegate.swift in Sources */,
